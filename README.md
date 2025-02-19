@@ -25,10 +25,7 @@ The architecture follows a **multi-threaded proxy model** where multiple clients
 5. Each client request is handled by a **separate thread**, ensuring parallel processing.
 
 ### Architecture
-```![Architecture]([https://github.com/user-attachments/assets/bc8abf2b-cecf-4a51-8a74-a18039d8cb1a](https://github.com/Div16s/Multi-Threaded-Web-Server-Proxy/blob/main/Multi-Threaded%20Proxy%20Web%20Server.png?raw=true))
-
-
-```
+![Architecture]([https://github.com/user-attachments/assets/bc8abf2b-cecf-4a51-8a74-a18039d8cb1a](https://github.com/Div16s/Multi-Threaded-Web-Server-Proxy/blob/main/Multi-Threaded%20Proxy%20Web%20Server.png?raw=true))
 
 ## Technologies & Concepts Used
 - **C Programming** for efficient low-level memory management

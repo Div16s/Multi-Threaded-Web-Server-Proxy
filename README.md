@@ -87,6 +87,9 @@ clean:
   - Links object files into a final executable named `proxy`.
 - **`clean` target** removes compiled files.
 
+## Acknowledgments
+This project was inspired by a tutorial by [Lovepreet Singh](https://www.youtube.com/@SinghDevHub).
+
 ## Author
 - **Divyankar Shah**  
 

@@ -91,6 +91,5 @@ clean:
 - **`clean` target** removes compiled files.
 
 ## Author
-- **Your Name**  
-Feel free to contribute or report issues!
+- **Divyankar Shah**  
 
